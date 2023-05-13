@@ -28,3 +28,4 @@ This application uses express-rate-limit to limit the number of requests to the 
 
 ## License
 This project is licensed under the MIT License 
+- Deployed at : https://odd-ruby-mite-hem.cyclic.app
